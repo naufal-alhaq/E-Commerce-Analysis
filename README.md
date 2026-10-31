@@ -1,4 +1,3 @@
-# E-Commerce-Analysis
 # E-Commerce Analysis: Discount Depth and Profit Margin
 
 An analysis of year-end sales performance for an online store. November–December revenue jumps every year, but profit does not follow. This project finds out why and recommends a discount policy that protects margin.
